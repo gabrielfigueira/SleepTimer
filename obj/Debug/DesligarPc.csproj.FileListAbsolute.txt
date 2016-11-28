@@ -1,0 +1,18 @@
+c:\users\102649.claretiano\documents\visual studio 2015\Projects\DesligarPc\DesligarPc\bin\Debug\DesligarPc.exe.config
+c:\users\102649.claretiano\documents\visual studio 2015\Projects\DesligarPc\DesligarPc\bin\Debug\DesligarPc.exe
+c:\users\102649.claretiano\documents\visual studio 2015\Projects\DesligarPc\DesligarPc\bin\Debug\DesligarPc.pdb
+c:\users\102649.claretiano\documents\visual studio 2015\Projects\DesligarPc\DesligarPc\obj\Debug\DesligarPc.csprojResolveAssemblyReference.cache
+c:\users\102649.claretiano\documents\visual studio 2015\Projects\DesligarPc\DesligarPc\obj\Debug\DesligarPc.Form1.resources
+c:\users\102649.claretiano\documents\visual studio 2015\Projects\DesligarPc\DesligarPc\obj\Debug\DesligarPc.Properties.Resources.resources
+c:\users\102649.claretiano\documents\visual studio 2015\Projects\DesligarPc\DesligarPc\obj\Debug\DesligarPc.csproj.GenerateResource.Cache
+c:\users\102649.claretiano\documents\visual studio 2015\Projects\DesligarPc\DesligarPc\obj\Debug\DesligarPc.exe
+c:\users\102649.claretiano\documents\visual studio 2015\Projects\DesligarPc\DesligarPc\obj\Debug\DesligarPc.pdb
+J:\OLHAR\DesligarPc\bin\Debug\DesligarPc.exe.config
+J:\OLHAR\DesligarPc\obj\Debug\DesligarPc.exe
+J:\OLHAR\DesligarPc\obj\Debug\DesligarPc.pdb
+J:\OLHAR\DesligarPc\bin\Debug\DesligarPc.exe
+J:\OLHAR\DesligarPc\bin\Debug\DesligarPc.pdb
+J:\OLHAR\DesligarPc\obj\Debug\DesligarPc.csprojResolveAssemblyReference.cache
+J:\OLHAR\DesligarPc\obj\Debug\DesligarPc.Form1.resources
+J:\OLHAR\DesligarPc\obj\Debug\DesligarPc.Properties.Resources.resources
+J:\OLHAR\DesligarPc\obj\Debug\DesligarPc.csproj.GenerateResource.Cache
